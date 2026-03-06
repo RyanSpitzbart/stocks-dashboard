@@ -2,6 +2,9 @@
 
 An interactive financial dashboard built with **Python, Streamlit, and Yahoo Finance data**.
 
+## Dashboard Preview
+![Stock Dashboard](dashboard_preview.png)
+
 This project allows users to explore stock performance, financial metrics, and company fundamentals through an interactive interface.
 
 ## Features
