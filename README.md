@@ -21,9 +21,11 @@ This project allows users to explore stock performance, financial metrics, and c
 
 - Python
 - Streamlit
+- Altair
 - yfinance
 - Plotly
 - Pandas
+- Watchdog
 
 ## How to Run the Project
 
@@ -34,7 +36,6 @@ pip install -r requirements.txt
 ```
 
 Run the dashboard:
-
 ```
 streamlit run stocks_dashboard.py
 ```
